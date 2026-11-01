@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ব্যবহার ট্র্যাকার</string>
+    <string name="perm_title">একটা পারমিশন লাগবে</string>
+    <string name="perm_text">কোন অ্যাপ কতক্ষণ চালালে তা দেখতে অ্যান্ড্রয়েডের "Usage access" পারমিশন দিতে হবে। নিচের বোতামে ট্যাপ করে তালিকা থেকে "ব্যবহার ট্র্যাকার" অন করে দাও।</string>
+    <string name="perm_btn">পারমিশন দাও</string>
+    <string name="empty_day">এই দিনের কোনো হিসাব পাওয়া যায়নি</string>
+    <string name="hourly_title">ঘণ্টায় ঘণ্টায় ব্যবহার</string>
+</resources>
